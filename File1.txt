@@ -1,12 +1,15 @@
 Hello World!!!
 
 
-Change 1-->Login Feature  enhancement by teammate to test 3-way merge
+Change 1:-->Login Feature  enhancement by teammate to test 3-way merge
 
-Change 2 --> Logout Feature
+Change 2:--> Logout Feature
 
-Change 3 --> Enhancement for Login Feature
+Change 3:--> Enhancement for Login Feature
 
-Change 4 --> Bug1 fix
+Change 4:--> Bug1 fix
 
-Change 5 --> Made by team mate for WI4
+Change 5:--> Made by team mate for WI4
+
+Change 6:--> Bug2 fix
+
